@@ -34,3 +34,10 @@ BESIII Collaboration · [Phys. Rev. Lett. 132, 101801](https://doi.org/10.1103/P
 **L. Liu**, X. Zhou, H. Peng · [Nucl. Instrum. Meth. A 1033, 166672](https://doi.org/10.1016/j.nima.2022.166672)
 
 [→ Full CV and publication list](/cv/)
+
+---
+
+## Blog
+
+Notes on software tools, research computing, and physics workflows.
+
