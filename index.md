@@ -10,6 +10,7 @@ Fermi National Accelerator Laboratory *(Jan 2024 – present)*
 Member of the MicroBooNE, SBND, GENIE, and DUNE collaborations.
 
 <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="16" style="vertical-align:middle"> [ORCID 0000-0002-6753-925X](https://orcid.org/0000-0002-6753-925X) &nbsp;|&nbsp;
+<img src="https://inspirehep.net/favicon.ico" height="16" style="vertical-align:middle"> [InspireHEP](https://inspirehep.net/authors/2627705) &nbsp;|&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" height="16" style="vertical-align:middle"> [GitHub LiangLiu212](https://github.com/LiangLiu212)
 
 ---
