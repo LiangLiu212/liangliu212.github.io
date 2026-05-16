@@ -86,7 +86,8 @@ Identified and reconstructed exclusive reactions n̄ + A → p̄ + p + X and n̄
 ### Main Author
 
 **Benchmarking State-of-the-Art Theory and Empirical Models of Pionless Neutrino-Argon Scattering in GENIE**  
-**L. Liu**, S. Gardiner, S. Dytman (GENIE Collaboration) — *in preparation*, 2026
+**L. Liu**, S. Gardiner, S. Dytman  
+[arXiv:2605.14196](https://arxiv.org/abs/2605.14196) · FERMILAB-PUB-26-0211-CSAID (2026)
 
 **Investigation of the ΔI = ½ Rule and Test of CP Symmetry through the Measurement of Decay Asymmetry Parameters in Ξ⁻ Decays**  
 BESIII Collaboration  
