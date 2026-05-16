@@ -78,3 +78,56 @@ Identified and reconstructed exclusive reactions n̄ + A → p̄ + p + X and n̄
 - *Neutrino-argon cross-section measurements from MicroBooNE*, Lepton Photon 2025, Madison WI
 - *Hyperon Physics at BESIII*, QCD23, Montpellier, France (2023)
 - *CP symmetry tests in hyperon weak decays at BESIII*, ICHEP 2022, Bologna, Italy *(poster)*
+
+---
+
+## Publications
+
+### Main Author
+
+**Benchmarking State-of-the-Art Theory and Empirical Models of Pionless Neutrino-Argon Scattering in GENIE**  
+**L. Liu**, S. Gardiner, S. Dytman (GENIE Collaboration) — *in preparation*, 2026
+
+**Investigation of the ΔI = ½ Rule and Test of CP Symmetry through the Measurement of Decay Asymmetry Parameters in Ξ⁻ Decays**  
+BESIII Collaboration  
+[Phys. Rev. Lett. 132, 101801 (2024)](https://doi.org/10.1103/PhysRevLett.132.101801) · [arXiv:2309.14667](https://arxiv.org/abs/2309.14667)
+
+**Measurement of the Absolute Branching Fraction of the Inclusive Decay Λ̄c⁻ → n̄ + X**  
+BESIII Collaboration  
+[Phys. Rev. D 108, L031101 (2023)](https://doi.org/10.1103/PhysRevD.108.L031101)
+
+**Development of a Data-Driven Method to Simulate the Detector Response of Anti-Neutron at BESIII**  
+**L. Liu**, X. Zhou, H. Peng  
+[Nucl. Instrum. Meth. A 1033, 166672 (2022)](https://doi.org/10.1016/j.nima.2022.166672)
+
+**Observation of the Decay ψ(3686) → Σ⁻Σ̄⁺ and Measurement of its Angular Distribution**  
+BESIII Collaboration  
+[JHEP 12 (2022) 016](https://doi.org/10.1007/JHEP12(2022)016)
+
+**Measurement of the Absolute Branching Fraction and Decay Asymmetry of Λ → nγ**  
+BESIII Collaboration  
+[Phys. Rev. Lett. 129, 212002 (2022)](https://doi.org/10.1103/PhysRevLett.129.212002)
+
+### Co-Author
+
+**Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon-Antihyperon Pairs**  
+BESIII Collaboration · [arXiv:2602.20524](https://arxiv.org/abs/2602.20524) (2026)
+
+**Test of CP Symmetry in the Neutral Decays of Λ via J/ψ → ΛΛ̄**  
+BESIII Collaboration · [arXiv:2510.24333](https://arxiv.org/abs/2510.24333) (2025)
+
+**CP Violation Studies at Super Tau-Charm Facility**  
+H.-Y. Cheng et al. · [arXiv:2502.08907](https://arxiv.org/abs/2502.08907) (2025)
+
+**Measurement of CP Violation of Neutral Kaon System in J/ψ Decay at the Super Tau-Charm Facility**  
+J.-Y. Zhang, C.-D. Fu, H.-B. Li, **L. Liu**, X.-R. Zhou · [arXiv:2209.12551](https://arxiv.org/abs/2209.12551) (2022)
+
+### Proceedings
+
+**Neutrino-Argon Cross-Section Measurements from the MicroBooNE Experiment**  
+**L. Liu** (MicroBooNE) · Lepton Photon 2025  
+[arXiv:2601.22267](https://arxiv.org/abs/2601.22267) · FERMILAB-CONF-25-0791-CSAID
+
+**CP Symmetry Tests in Hyperon Weak Decays at BESIII**  
+**L. Liu** · ICHEP 2022  
+[PoS(ICHEP2022)951](https://doi.org/10.22323/1.414.0951)
