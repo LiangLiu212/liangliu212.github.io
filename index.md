@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## Liang Liu
-
 **Postdoctoral Research Associate**  
 Fermi National Accelerator Laboratory *(Jan 2024 – present)*
 
