@@ -79,7 +79,7 @@ Identified and reconstructed exclusive reactions n̄ + A → p̄ + p + X and n̄
 
 ---
 
-## Publications
+## Selected Publications
 
 ### Main Author
 
@@ -91,21 +91,21 @@ Identified and reconstructed exclusive reactions n̄ + A → p̄ + p + X and n̄
 BESIII Collaboration  
 [Phys. Rev. Lett. 132, 101801 (2024)](https://doi.org/10.1103/PhysRevLett.132.101801) · [arXiv:2309.14667](https://arxiv.org/abs/2309.14667)
 
-**Measurement of the Absolute Branching Fraction of the Inclusive Decay Λ̄c⁻ → n̄ + X**  
-BESIII Collaboration  
-[Phys. Rev. D 108, L031101 (2023)](https://doi.org/10.1103/PhysRevD.108.L031101)
-
 **Development of a Data-Driven Method to Simulate the Detector Response of Anti-Neutron at BESIII**  
 **L. Liu**, X. Zhou, H. Peng  
 [Nucl. Instrum. Meth. A 1033, 166672 (2022)](https://doi.org/10.1016/j.nima.2022.166672)
 
-**Observation of the Decay ψ(3686) → Σ⁻Σ̄⁺ and Measurement of its Angular Distribution**  
-BESIII Collaboration  
-[JHEP 12 (2022) 016](https://doi.org/10.1007/JHEP12(2022)016)
-
 **Measurement of the Absolute Branching Fraction and Decay Asymmetry of Λ → nγ**  
 BESIII Collaboration  
 [Phys. Rev. Lett. 129, 212002 (2022)](https://doi.org/10.1103/PhysRevLett.129.212002)
+
+**Measurement of the Absolute Branching Fraction of the Inclusive Decay Λ̄c⁻ → n̄ + X**  
+BESIII Collaboration  
+[Phys. Rev. D 108, L031101 (2023)](https://doi.org/10.1103/PhysRevD.108.L031101)
+
+**Observation of the Decay ψ(3686) → Σ⁻Σ̄⁺ and Measurement of its Angular Distribution**  
+BESIII Collaboration  
+[JHEP 12 (2022) 016](https://doi.org/10.1007/JHEP12(2022)016)
 
 ### Co-Author
 
