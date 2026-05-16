@@ -50,5 +50,4 @@ vertex drive the cascade that follows.
 
 Comparing the two animations highlights how the initial-state conditions set
 by GENIE (neutrino kinematics, struck-nucleon momentum) shape the cascade
-topology relative to a hadron-induced reaction. This work is part of an ongoing
-effort to benchmark GENIE-INCL against MicroBooNE and SBND data.
+topology relative to a hadron-induced reaction.
