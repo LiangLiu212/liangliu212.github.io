@@ -9,8 +9,8 @@ Fermi National Accelerator Laboratory *(Jan 2024 – present)*
 
 Member of the MicroBooNE, SBND, GENIE, and DUNE collaborations.
 
-🔗 [ORCID 0000-0002-6753-925X](https://orcid.org/0000-0002-6753-925X) &nbsp;|&nbsp;
-🐙 [GitHub LiangLiu212](https://github.com/LiangLiu212)
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" height="16" style="vertical-align:middle"> [ORCID 0000-0002-6753-925X](https://orcid.org/0000-0002-6753-925X) &nbsp;|&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" height="16" style="vertical-align:middle"> [GitHub LiangLiu212](https://github.com/LiangLiu212)
 
 ---
 
