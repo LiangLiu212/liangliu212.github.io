@@ -9,7 +9,6 @@ Fermi National Accelerator Laboratory *(Jan 2024 – present)*
 
 Member of the MicroBooNE, SBND, GENIE, and DUNE collaborations.
 
-📧 [liangliu@fnal.gov](mailto:liangliu@fnal.gov) &nbsp;|&nbsp;
 🔗 [ORCID 0000-0002-6753-925X](https://orcid.org/0000-0002-6753-925X) &nbsp;|&nbsp;
 🐙 [GitHub LiangLiu212](https://github.com/LiangLiu212)
 
