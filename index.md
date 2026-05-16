@@ -24,13 +24,13 @@ nuclear detector simulation
 
 ## Recent Highlights
 
-**Benchmarking Pionless Neutrino-Argon Scattering Models in GENIE** (2026)  
+**Benchmarking State-of-the-Art Theory and Empirical Models of Pionless Neutrino-Argon Scattering in GENIE** (2026)  
 **L. Liu**, S. Gardiner, S. Dytman · [arXiv:2605.14196](https://arxiv.org/abs/2605.14196)
 
-**ΔI = ½ Rule and CP Symmetry in Ξ⁻ Decays** (2024)  
+**Investigation of the ΔI = ½ Rule and Test of CP Symmetry through the Measurement of Decay Asymmetry Parameters in Ξ⁻ Decays** (2024)  
 BESIII Collaboration · [Phys. Rev. Lett. 132, 101801](https://doi.org/10.1103/PhysRevLett.132.101801)
 
-**Data-Driven Anti-Neutron Simulation at BESIII** (2022)  
+**Development of a Data-Driven Method to Simulate the Detector Response of Anti-Neutron at BESIII** (2022)  
 **L. Liu**, X. Zhou, H. Peng · [Nucl. Instrum. Meth. A 1033, 166672](https://doi.org/10.1016/j.nima.2022.166672)
 
 [→ Full CV and publication list](/cv/)
