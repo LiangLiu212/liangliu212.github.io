@@ -15,11 +15,11 @@ Member of the MicroBooNE, SBND, GENIE, and DUNE collaborations.
 
 I work on neutrino-nucleus cross-section measurements at MicroBooNE and SBND,
 and on extending the GENIE generator by interfacing it with the INCL
-intranuclear cascade model. My PhD research at BESIII focused on CP violation
-in hyperon decays and data-driven methods for anti-neutron detector simulation.
+intranuclear cascade model. My PhD research at BESIII developed data-driven
+methods for anti-neutron detector simulation.
 
 **Research interests:** neutrino-nucleus scattering · intranuclear cascade ·
-CP violation in hyperon decays · nuclear detector simulation
+nuclear detector simulation
 
 ---
 
